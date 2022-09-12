@@ -22,4 +22,5 @@ module.exports = class TraceService extends CampsiService {
   }
 
   // comment something
+  // comment something else
 };
