@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/campsi/campsi-mono-ci-test/compare/v1.0.0...v1.0.1) (2022-09-12)
+
+
+### Bug Fixes
+
+* added blank comment ([bc0a256](https://github.com/campsi/campsi-mono-ci-test/commit/bc0a2561931642b2704b385d4accd78eff6cd349))
+
 # 1.0.0 (2022-08-02)
 
 
