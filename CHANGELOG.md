@@ -1,3 +1,11 @@
+## [1.1.2](https://github.com/campsi/campsi-mono-ci-test/compare/v1.1.1...v1.1.2) (2022-09-12)
+
+
+### Bug Fixes
+
+* more then 100 max body ([caac471](https://github.com/campsi/campsi-mono-ci-test/commit/caac471ad81b00433399c34b94022a5370c28982))
+* test commit with husky ([785601d](https://github.com/campsi/campsi-mono-ci-test/commit/785601def0c63c24728a46efdb47b4aa8a3060db))
+
 ## [1.1.1](https://github.com/campsi/campsi-mono-ci-test/compare/v1.1.0...v1.1.1) (2022-09-12)
 
 
