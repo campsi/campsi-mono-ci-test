@@ -26,4 +26,5 @@ module.exports = class TraceService extends CampsiService {
   // keep thoise comments coming
   // fix
   // feature
+  // no scope type
 };
