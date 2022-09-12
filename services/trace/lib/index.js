@@ -20,4 +20,6 @@ module.exports = class TraceService extends CampsiService {
     const desc = super.describe();
     return desc;
   }
+
+  // comment something
 };
