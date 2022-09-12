@@ -9,6 +9,13 @@ module.exports = {
   ],
   plugins: [
     '@semantic-release/commit-analyzer',
+    {
+      preset: 'eslint',
+      releaseRules: [
+        { scope: 'no-release', release: false },
+        { type: '*', release: 'patch' }
+      ]
+    },
     '@semantic-release/release-notes-generator',
     [
       '@semantic-release/changelog',
