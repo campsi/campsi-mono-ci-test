@@ -13,7 +13,7 @@ module.exports = {
       preset: 'eslint',
       releaseRules: [
         { scope: 'no-release', release: false },
-        { type: '*', release: 'patch' }
+        { type: '', release: 'patch' }
       ]
     },
     '@semantic-release/release-notes-generator',
