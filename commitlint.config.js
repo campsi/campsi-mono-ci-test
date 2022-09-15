@@ -4,3 +4,5 @@ module.exports = {
     'body-max-line-length': [1, 'always', 50]
   }
 };
+
+// test
