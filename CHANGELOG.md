@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/campsi/campsi-mono-ci-test/compare/v1.1.3...v1.2.0) (2022-09-15)
+
+
+### Bug Fixes
+
+* step 1 of fix and feature ([babcadf](https://github.com/campsi/campsi-mono-ci-test/commit/babcadf4a0d124f60ba41f118fd93724c4bc1569))
+
+
+### Features
+
+* feature step 2 of fix and feature in same merge ([df5ff83](https://github.com/campsi/campsi-mono-ci-test/commit/df5ff8344b5ea6dd5eaf9e8b176dfb0212cd8398))
+
 ## [1.1.3](https://github.com/campsi/campsi-mono-ci-test/compare/v1.1.2...v1.1.3) (2022-09-15)
 
 
