@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/campsi/campsi-mono-ci-test/compare/v1.2.0...v1.2.1) (2023-01-09)
+
+
+### Bug Fixes
+
+* update node to v18 ([86e56ec](https://github.com/campsi/campsi-mono-ci-test/commit/86e56ec3b71faae11f4342bee94ab92cf4486464))
+
 # [1.2.0](https://github.com/campsi/campsi-mono-ci-test/compare/v1.1.3...v1.2.0) (2022-09-15)
 
 
